@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Took off the "Just another repository" comment becuase it doesn't look as clean.
